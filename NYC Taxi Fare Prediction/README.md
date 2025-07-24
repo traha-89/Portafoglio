@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project focuses on the 2017 New York Yellow Taxi trip dataset with the aim to both uncover insights about the data and build a machine learning model to predict taxi fares for NYC passengers.
+This project uses the 2017 New York Yellow Taxi trip dataset with the aim to both uncover insights about the data and build a machine learning model to predict taxi fares for NYC passengers.
 
 ---
 
