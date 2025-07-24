@@ -42,7 +42,7 @@ This project focuses on the 2017 New York Yellow Taxi trip dataset with the aim 
   - Vendor ID
   - Rush Hour (Trips between 7 a.m. to 10 a.m. and 5 p.m. to 8 p.m.)
 
-![Regression Plot](images/regression_plot.png)
+![Regression Plot](images/linearregression.png)
 
 ## 📌 Requirements
 
