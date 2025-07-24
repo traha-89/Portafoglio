@@ -31,4 +31,12 @@ Collection of Data Analytics Projects created for the purposes of learning, shar
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tirthankarraha)
 ---
 *Thank you for visiting my profile!*
+---
+
+## List of Projects
+
+1. **NYC Taxi Fare Prediction**:
+   - Based on 2017 Yellow Taxi Trip Data for New York City, perform an EDA to explore relationships between variables such as trip distance, fare amount, pick-up/drop-off time, passenger count etc.
+   - Create a model to predict the cab fares for Yellow Taxi, using Multiple Linear Regression.
+   - Data Source: https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3hs/about_data 
 
