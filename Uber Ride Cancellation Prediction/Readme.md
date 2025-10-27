@@ -46,16 +46,15 @@ The dataset includes ride booking information:
 
 | Model                | Accuracy | ROC-AUC | Precision (Class 1) | Recall (Class 1) | F1-Score (Class 1) |
 |----------------------|----------|---------|---------------------|------------------|--------------------|
-| Logistic Regression  | 0.9648   | 0.9477  | 0.989               | 0.503            | 0.667              |
-| Random Forest        | 0.9663   | 0.9483  | 0.980               | 0.528            | 0.690              |
-| XGBoost (Best)       | 0.8640   | 0.9556  | 0.325               | 0.870            | 0.473              |
+| Logistic Regression  | 0.9402   | 0.7848  | 0.9852              | 0.1476           | 0.2568             |
+| **Random Forest** (Best) | 0.9667   | 0.9532  | 1.0000              | 0.5241           | 0.6878             |
+| XGBoost              | 0.9558   | 0.9539  | 0.7388              | 0.5702           | 0.6436             |
 
 ## 🔍 Key Findings
 
 - High VTAT (Vehicle Arrival Time) strongly correlates with cancellations
-- Peak cancellation hours: 23:00 and 15:00
-- Certain locations show higher cancellation rates
-- Payment method influences cancellation likelihood
+- Ride Distance, booking value and customer ratings also influence ride cancellations moderately.
+
 
 ## 💡 Recommendations
 
