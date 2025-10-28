@@ -40,5 +40,9 @@ Collection of Data Analytics Projects created for the purposes of learning, shar
    - Create a model to predict the cab fares for Yellow Taxi, using Multiple Linear Regression.
    - Data Source: https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3hs/about_data
 
-2. **Landing Page Optimization**: Work in progress 
+2. **Uber Ride Cancellation Prediction**:
+   - Build a machine learning model (LR/RF/XGB) to predict whether a customer will cancel a ride before it begins, using only booking metadata available at the time of booking.
+   - The goal is to optimize driver dispatch efficiency by proactively identifying high-risk cancellations.
+
+3. **Landing Page Optimization**: Work in progress 
 
